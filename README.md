@@ -19,7 +19,7 @@ Fresh graduate leaving behind my “forever student” label after 7 years of st
 **💻 Programming & Data**  
 - **Python**: pandas, numpy, scikit-learn, seaborn, matplotlib, statsmodels  
 - **R**: tidyverse, ggplot2, forecast  
-- **SQL**: PostgreSQL, MySQL, SQLite, BigQuery  
+- **SQL**: PostgreSQL, MySQL, SQLite, DBeaver  
 - Big fan of developing and documenting my codes in **Jupyter Notebook**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
