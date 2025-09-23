@@ -48,19 +48,6 @@ Fresh graduate leaving behind my “forever student” label after 7 years of st
 ![TimeSeries](https://img.shields.io/badge/Time_Series-5C2D91?style=flat-square&logo=r&logoColor=white) 
 ![FeatureEng](https://img.shields.io/badge/Feature_Engineering-795548?style=flat-square&logo=python&logoColor=white)
 
----
-
-**🗄️ Databases & Data Management**  
-Self-taught skills in SQL for designing and managing relational data:  
-- Database schema design (PostgreSQL, MySQL)  
-- Query optimization (joins, indexes, window functions)  
-- ETL basics (extract, transform, load workflows)  
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) 
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-bigquery&logoColor=white)
-
 
 ---
 
