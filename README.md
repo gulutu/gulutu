@@ -75,7 +75,8 @@ I combine technical analysis with strategic frameworks:
 **🛠️ Other Tools**  
 - PowerPoint (professional presentations, storytelling)  
 - LaTeX (academic writing, math formulas)  
-- Markdown (documentation, GitHub)  
+- Markdown (documentation, GitHub)
+- Adobe InDesign, Illustrator, Photoshop  
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) 
@@ -83,17 +84,11 @@ I combine technical analysis with strategic frameworks:
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)  
 
 ---
-## 🌱 Currently Exploring & Future Goals  
+## 🌱 Currently Exploring  
 
 **Currently Exploring**  
 - Advanced SQL (window functions, optimization, ETL workflows)  
 - Power BI & Tableau (advanced dashboards, KPI storytelling)   
-
-**Future Goals**  
-- ☁️ Cloud computing (AWS, Azure, GCP) for data pipelines & ML deployment   
-- 🧠 Deep learning (TensorFlow, PyTorch)  
-- 🗣️ Advanced NLP (transformers, LLMs, topic modeling)  
-- 🌍 Data ethics & governance in applied analytics  
 
 ---
 
