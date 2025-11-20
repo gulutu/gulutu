@@ -76,32 +76,6 @@ Lately, I’ve been focusing on:
 - **Cloud & Data Infrastructure:** developing foundational understanding of cloud-based data pipelines, storage, and analytics.
 
 ---
-## 🚀 Featured Projects  
-
-- 🚗 [**Car Insurance Project**](https://github.com/gulutu/Car_Insurance_Project)  
-  Data cleaning, feature engineering, and predictive modeling for insurance claim prediction.  
-
-- 👥 [**Customer Segmentation**](https://github.com/gulutu/Customer_Segmentation)  
-  K-means clustering to identify distinct customer segments and inform marketing strategy.  
-
----
-
-## 📂 Machine Learning Projects  
-
-Originally developed as part of my **Machine Learning coursework**, these projects have been refined and expanded for clarity.  
-
-- 🎵 [**Spotify Streaming Analysis**](https://github.com/gulutu/ML_assignments/tree/main/Spotify_Assignment)  
-  Exploratory data analysis on music streaming behavior.  
-
-- 🌶️ [**Chili Heat Prediction**](https://github.com/gulutu/ML_assignments/tree/main/Chili_Scoville_Prediction)  
-  Regression model predicting Scoville heat levels of chili peppers.  
-
-- 🌌 [**Astronomy Classification**](https://github.com/gulutu/ML_assignments/tree/main/Astronomical_Object_Classification)  
-  Classification model distinguishing between stars, galaxies, and quasars.  
-
-- 🍌 [**Banana Classification**](https://github.com/gulutu/ML_assignments/tree/main/Banana_Quality_Classification)  
-  Classification of banana ripeness using supervised machine learning.  
-
 
 ## 🎓 Academic Projects  
   
