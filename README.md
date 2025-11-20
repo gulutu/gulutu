@@ -83,7 +83,7 @@ Experienced in **PowerPoint** (data storytelling & presentation), **Markdown** a
   
 ### 📡 [**Telecom Service Process Mining & Redesigning**](https://github.com/gulutu/telecom-process-improvement)
 *Process mining, BPMN modeling, and AI-supported workflow improvement*  
-End-to-end analysis of a telecom customer service workflow completed in the course **Systems and Process Innovation** (Master's in Business Analytics).   
+End-to-end analysis of a telecom customer service workflow completed in the course **Systems and Process Innovation**.   
 
 ---
 
