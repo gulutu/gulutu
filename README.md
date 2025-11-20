@@ -106,13 +106,13 @@ Originally developed as part of my **Applied Machine Learning coursework** and l
 
 ## 🕵🏼‍♀️ Other Projects  
 
-- 🚗 [**Car Insurance Project**](https://github.com/gulutu/Car_Insurance_Project)  
+### 🚗 [**Car Insurance Project**](https://github.com/gulutu/Car_Insurance_Project)  
   Data cleaning, feature engineering, and predictive modeling for insurance claim prediction.  
 
-- 👥 [**Customer Segmentation**](https://github.com/gulutu/Customer_Segmentation)  
+### 👥 [**Customer Segmentation**](https://github.com/gulutu/Customer_Segmentation)  
   K-means clustering to identify distinct customer segments and inform marketing strategy.  
 
-- 📊 [**Digital Marketing Analytics Project**](https://github.com/gulutu/Digital-Advertising-Analysis) *(ongoing)*  
+### 📊 [**Digital Marketing Analytics Project**](https://github.com/gulutu/Digital-Advertising-Analysis) *(ongoing)*  
   End-to-end advertising analytics using SQL, Python, and BI dashboards.
 
 
