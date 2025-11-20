@@ -15,12 +15,23 @@ Here you’ll find projects that explore topics such as business analysis, custo
 <p align="center"><i>– Carly Fiorina, former CEO of Hewlett-Packard</i></p>
 
 ---
+
+## 🔧 Currently Working On   
+
+- [**Digital Marketing Analytics Project**](https://github.com/gulutu/Digital-Advertising-Analysis) – building an end-to-end analytics pipeline using SQL, Python and Tableau  
+- Developing new independent projects to expand and deepen technical skills  
+- Exploring practical applications of AI for analytics and workflow automation  
+- Building foundational knowledge in cloud technologies and infrastructure
+- Building my foundation in BI tools and learning how to create structured, insight-driven dashboards
+
+---
+
 ## 🧩 Technical & Analytical Skills  
 Hands-on experience with **Python**, **R**, and **SQL** for data preparation, analysis, and reporting.  
 I emphasize clear, reproducible, and well-documented workflows in **Jupyter Notebook**.  
 
-- Python: pandas, numpy, scikit-learn, seaborn, matplotlib, statsmodels  
-- R: tidyverse, ggplot2, forecast, bupaR  
+- Python: pandas, numpy, scikit-learn, seaborn, matplotlib, statsmodels, plotly  
+- R: tidyverse, ggplot2, forecast, bupaR, processmapR  
 - SQL: PostgreSQL, MySQL, SQLite, DBeaver  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -67,15 +78,6 @@ Experienced in **PowerPoint** (data storytelling & presentation), **Markdown** a
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
 ---
-## 🌱 Currently Exploring  
-
-Continuously expanding my technical toolkit and analytical approach.  
-Lately, I’ve been focusing on:  
-- **Advanced SQL:** window functions, optimization, ETL workflows  
-- **Power BI & Tableau:** interactive dashboards and KPI-driven storytelling  
-- **Cloud & Data Infrastructure:** developing foundational understanding of cloud-based data pipelines, storage, and analytics.
-
----
 
 ## 🎓 Academic Projects  
   
@@ -110,6 +112,8 @@ Originally developed as part of my **Applied Machine Learning coursework** and l
 - 👥 [**Customer Segmentation**](https://github.com/gulutu/Customer_Segmentation)  
   K-means clustering to identify distinct customer segments and inform marketing strategy.  
 
+- 📊 [**Digital Marketing Analytics Project**](https://github.com/gulutu/Digital-Advertising-Analysis) *(ongoing)*  
+  End-to-end advertising analytics using SQL, Python, and BI dashboards.
 
 
 
