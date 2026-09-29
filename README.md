@@ -1,10 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Encode+Sans+Condensed&size=30&letterSpacing=1&duration=1900&pause=1000&color=1A5C79&multiline=true&width=435&height=80&lines=Hi+there!%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+GitHub+Profile%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
-
-I recently completed my Master’s in Business Analytics, building on earlier studies in HR, Economics, and Business. I’m naturally curious, and enjoy understanding how data, people, and processes connect – and what actually drives the patterns we see.
-Most of my work revolves around data analysis, predictive modeling, business insights, and process understanding. 
-
-This GitHub collects projects where I explore customer behavior, processes, forecasting, and analytical workflows, combining both academic work and things I created simply because I wanted to understand something better. Instead of learning by "copying" tutorials, I try to build my own projects that solve real questions or real problems.
 
 <div align="center">
 
@@ -26,12 +20,6 @@ This GitHub collects projects where I explore customer behavior, processes, fore
 
 </div>
 
----
-
-<h4 align="center">“The goal is to turn data into information, and information into insight.”</h4>  
-<p align="center"><i>– Carly Fiorina, former CEO of Hewlett-Packard</i></p>
-
----
 
 ## 🔧 Currently Working On   
 
